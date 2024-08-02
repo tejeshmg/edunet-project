@@ -3,7 +3,7 @@
 ## Capstone Project
 
 ### Presented By
-1. Nitheesh Kani K - Sethu Institute of Technology - CSD
+1. Tejeshwar M G - Sethu Institute of Technology - CSD
 
 ---
 
